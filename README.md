@@ -7,9 +7,9 @@
 2. Drag your `*.exe` or any file excutable by command line (like `*.py`) to it.
 
 3. If the output is distinguished between the checker and your program, the checker will show you like the following example. `line 2` means the first difference appear in the line 2 of both output. `address 0x57ba` means the different line of instruction shown in LC-3 address. Then the program will save three files in your computer:
-   1. `input.txt` the input file
-   2. `ans.txt` the output of checker
-   3. `output.txt` the output of your program
+    - `input.txt` the input file
+    - `ans.txt` the output of checker
+    - `output.txt` the output of your program
 
     Tips: you can copy the instructions in `input.txt` to the LC-3 simulator, assemble it, and see the instructions of the line with difference in the address shown in the checker's message. 
 

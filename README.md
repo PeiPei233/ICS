@@ -14,7 +14,7 @@
     Tips: you can copy the instructions in `input.txt` to the LC-3 simulator, assemble it, and see the instructions of the line with difference in the address shown in the checker's message. 
 
 ```
-Find difference at line 2 (at address 0x57ba):
+Found difference at line 2 (at address 0x57ba):
         Output of checker is 0010000010000100
         Output of main.exe is 0010000000000000
 All the data has been saved successfully.
